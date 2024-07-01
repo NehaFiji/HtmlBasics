@@ -1,0 +1,32 @@
+a{
+    text-decoration: none;
+    color: rgb(50, 203, 226);
+}
+h2{
+    color: rgb(65, 223, 155);
+    text-decoration-line: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+
+   
+}
+#p1{
+    font-size: 20px;
+    color: blue;
+}
+#p2{
+    color: rgb(98, 174, 17);
+    text-decoration: underline;
+}
+#p3{
+    color: blueviolet;
+    text-decoration-line: underline;
+}
+.list1{
+    background-color: rgb(51, 169, 143);
+}
+.g1{
+    border: 1px solid red;
+    margin: 5% 10% 5% 30%;
+    padding: 10px 30px 10px 40px;
+}
